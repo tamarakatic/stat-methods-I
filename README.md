@@ -1,2 +1,2 @@
-# stat8003
+# stat-methods-I
 Assignments and project for Statistical Methods I course
